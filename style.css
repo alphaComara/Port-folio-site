@@ -1,0 +1,21 @@
+*{
+
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+}
+
+body{
+     font-family: Arial, Helvetica, sans-serif;
+     line-height: 1.4;
+     color:rgba(160, 173, 147, 0.2);
+     overflow-x: hidden;
+}
+h2{
+     animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+h3{
+    font-family:fantasy;
+    font-size:10px;
+}
